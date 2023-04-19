@@ -1,4 +1,4 @@
-__author__ = 'Python代码狂人'
+__author__ = 'yui'
 
 from . import setup,tools
 from .states import main_menu,load_screen,level1
